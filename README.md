@@ -1,10 +1,6 @@
 ### Welcome to my GitHub Page
-I am a Senior Systems Analyst, with M.Sc. and B.Sc.in Computer Science, experienced at desktop applications for Windows in MS Visual C++ and backend services for Linux in Java.
-In addition, I have experience as team leader, DevOps, Webservices and Oracle Database.
-I am also interest Agile, QA, CI and mobile development.
-
-I am seeking new challenges by means of a position in North America or remotely. 
-It may be full-time, part-time or even volunteer.
+Senior Software Engineer, Computer Science M.Sc., Computer Science B.Sc., experienced at desktop applications for Windows in MS Visual C++ and backend services, Web Services REST and SOAP in Java for Linux.
+Seeking an in person or remote position in North America.
 
 
 ### GitHub Projects
@@ -26,7 +22,7 @@ Forked project necessary to Oceano due to requirements of it and some bugs which
 
 [LinkedIn English](www.linkedin.com/in/dheraclio/en)
 
-[LinkedIn Portugues](www.linkedin.com/in/dheraclio)
+[LinkedIn Portuguese](www.linkedin.com/in/dheraclio)
 
 ### Support or Contact
 Contact me at <dheraclio@gmail.com>
