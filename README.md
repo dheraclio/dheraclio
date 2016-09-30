@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Page
-Senior Software Engineer, Computer Science M.Sc., Computer Science B.Sc., experienced at desktop applications for Windows in MS Visual C++ and backend services, Web Services REST and SOAP in Java for Linux.
+Software Engineer, Computer Science M.Sc., Computer Science B.Sc., experienced at desktop applications for Windows in MS Visual C++ and backend services, Web Services REST and SOAP in Java for Linux.
 Seeking an in person or remote position in North America.
 
 
@@ -20,9 +20,9 @@ Forked project necessary to Oceano due to requirements of it and some bugs which
 
 [GitHub](@dheraclio)
 
-[LinkedIn English](www.linkedin.com/in/dheraclio/en)
+[LinkedIn](www.linkedin.com/in/dheraclio)
 
-[LinkedIn Portuguese](www.linkedin.com/in/dheraclio)
+[Hackerank](https://www.hackerrank.com/dheraclio)
 
 ### Support or Contact
 Contact me at <dheraclio@gmail.com>
